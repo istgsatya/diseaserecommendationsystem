@@ -1,0 +1,4 @@
+artifacts/
+models/model_artifacts.joblib
+*.pkl
+*.joblib
